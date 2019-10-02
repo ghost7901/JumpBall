@@ -1,0 +1,12 @@
+[GSTSTRINGTABLE]
+
+about =
+"GST 2D Game Engine,\nWuChun(c) 2007 copy right reserved.\nHomePage:www.jzxx.net/myvc\nE-mail:ghost79@126.com"
+
+
+help =
+"Simple Ball:only jumps over one ball,\nlands in the free cell on the other side\n\nDisposable Ball:only jumps over one \nball,self-destructs after jump.\n\nForward Ball:only jumps over one ball,can \nland in any free cell on the other side.\n\nStatic Ball:loved in place,doesn't move \nat all.\n\nTimer Ball:like a Simple Ball with a \nself-destruct timer.\n\nRazor Ball:destroys everything in its \npath,moves on its own and cannot be \nselected."
+
+
+description =
+"Description:The Purpose of the game is to \nremove all balls from the field.A ball can \njump over another ball into a free cell,\ncausing the jumped ball to disappear.When \nonly one ball is left,you beat the level."
